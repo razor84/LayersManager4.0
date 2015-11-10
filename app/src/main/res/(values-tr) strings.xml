@@ -1,0 +1,196 @@
+<resources xmlns:https="http://schemas.android.com/apk/res-auto">
+
+    <!-- MAIN Fragment -->
+    <string name="layersmanager">Layers Manager</string>
+    <string name="PlaystoreSearch"><![CDATA[
+        https://play.google.com/store/search?q=Layers+Theme&c=apps&docType=1&sp=CAFiDgoMTGF5ZXJzIFRoZW1legIYAIoBAggB:S:ANO1ljK_ZAY
+        ]]></string>
+    <string name="tooBad">Çok kötü.</string>
+    <string name="noPlugins">Henüz herhangi bir uyumlu eklenti yüklü değil, Kaplama eklentileri için FAB tuşunu kullanın.</string>
+    <string name="ShowCaseMore">Bazı yeni güzel kaplamaları bulun. Beta artık kullanılabilir!</string>
+    <string name="PlayStoreMore">Playstore\'a bir göz atın.</string>
+
+    <!-- Plugin Detail -->
+    <string name="donotshowagain">Tekrar gösterme</string>
+    <string name="installeverything"Tümünü yükleyin</string>
+    <string name="selectalloverlays">Tüm kaplamaları seç</string>
+    <string name="WhatsNew">NELER YENİ</string>
+    <string name="Category2Name">Özel Stil Kaplamalar</string>
+    <string name="Category1Name">Genel Kaplamalar</string>
+    <string name="noRoot">Root erişimi mevcut değil</string>
+
+    <!-- About -->
+    <string name="niklasschnettler">Niklas Schnettler</string>
+    <string name="developedby">Layers geliştiricileri</string>
+    <string name="usefullinks">Kullanışlı bağlantılar</string>
+    <string name="version">Sürüm</string>
+    <string name="AditionalLayersDev">Ek Katmanlar Sunar</string>
+    <string name="findOutWhatsNew">Yenilikleri öğrenin</string>
+    <string name="joinTheChat">Sohbete katılın</string>
+    <string name="AppDeveloper">Uygulama Geliştirici</string>
+    <string name="LayersDeveloper">Layers Geliştirici</string>
+    <string name="LayersLeadDeveloper">Layers Lider Geliştirici</string>
+    <string name="ShowcaseDeveloper">Vitrin Geliştirici</string>
+
+    <!-- Licenses -->
+    <string name="OpenSourceLicenses">Açık Kaynak Lisansları:</string>
+    <string name="License1">Root Araçları</string>
+    <string name="License1about" translatable="false">Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</string>
+    <string name="License1github" translatable="false">https://github.com/Stericson/RootTools</string>
+
+    <string name="License2">Tanıtım</string>
+    <string name="License2about" translatable="false">Ruben Gees</string>
+    <string name="License2github">https://github.com/rubengees/introduction</string>
+
+    <string name="License3">Material CAB</string>
+    <string name="License3about" translatable="false">Aidan Michael Follestad</string>
+    <string name="License3github">https://github.com/afollestad/material-cab</string>
+
+    <string name="License4">CircleImageView</string>
+    <string name="License4about" translatable="false">Henning Dodenhof</string>
+    <string name="License4github">https://github.com/hdodenhof/CircleImageView</string>
+
+
+    <string name="MIT1">The MIT License (MIT)\n\nCopyright (c)</string>
+    <string name="MIT2">\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\n THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+
+    <string name="Apache1">Copyright ©</string>
+    <string name="Apache2">\n\nLicensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</string>
+
+
+    <!-- Links -->
+    <string name="linkXda">http://forum.xda-developers.com/android/apps-games/official-layers-bitsyko-apps-rro-t3012172</string>
+    <string name="linkCommunity">https://plus.google.com/u/0/communities/102261717366580091389</string>
+    <string name="linkNiklas">https://plus.google.com/u/0/+NiklasSchnettler/posts</string>
+    <string name="linkSteve">https://plus.google.com/u/0/+SteveLovejoy/posts</string>
+    <string name="linkAldrin">https://plus.google.com/u/0/+AldrinHolmes20/posts</string>
+    <string name="linkBrian">https://plus.google.com/u/0/+BrianGill55/posts</string>
+    <string name="linkReinhard">https://plus.google.com/101549242713977412381/posts</string>
+    <string name="linkSyko">https://plus.google.com/u/0/+SykoPompos/posts</string>
+    <string name="linkBranden">https://plus.google.com/u/0/101729058057775926785/posts</string>
+    <string name="linkDenis">https://plus.google.com/u/0/+DenisSuarez98/posts</string>
+    <string name="linkAndrzej">https://plus.google.com/117376207394302665227/posts</string>
+
+
+    <!-- PRODUCT TOUR -->
+    <string name="Slide1_Heading">Layers Manager</string>
+    <string name="Slide1_Text">Tüm paylaşımlarınızı yönetmek için merkezi bir yer</string>
+    <string name="Slide2_Heading">Kaplama Eklentisi</string>
+    <string name="Slide2_Text">Uyumlu temalar doğrudan Layers Manager\'a entegre edilmiştir. Ana sayfadan onları açın ve doğrudan favori paylaşımlarınızı yükleyin.</string>
+    <string name="Slide3_Heading">APK / ZIP Katmalar</string>
+    <string name="Slide3_Text">Yüzen Eylem Butonuna tıklayarak apk veya zip olarak mevcut temalar yükleyebilirsiniz.</string>
+    <string name="Slide4_Heading">Kaplamaları Kaldır</string>
+    <string name="Slide4_Text">Artık kullanmak istemiyorsanız kaplamaları kaldırın.</string>
+    <string name="Slide5_Heading">Yedekle &amp; Geri Yükle</string>
+    <string name="Slide5_Text">Sevdiğiniz kaplamaları ydekleyin ve sonra tekrar geri yükleyin.</string>
+    <string name="Slide6_Heading">Başlatıcı Simgesini Gizle?</string>
+    <string name="Slide7_Heading">Gereksiz Kaplamaları Gizle?</string>
+
+
+    <!-- INSTRUCTIONS/TUTORIAL -->
+    <string name="instructionstitle">Öğretici</string>
+    <string name="instructionscard1header">Kaplama eklentisi yükleyin</string>
+    <string name="instructionscard1">Yüklü kaplamaların birine tıklayın\nTemanın uygulanmasını istediğiniz uygulamaları seçin\nKaplamaları yüklemek için tıklayın FAB</string>
+    <string name="instructionscard2header">Normal kaplamaları yükleyin</string>
+    <string name="instructionscard2">Ana ekranda FAB\'a tıklayın\nBir .zip ya da birden fazla .apk\'dan birini seçin\nSeçilen kaplamaları yüklemek için FAB\'a tıklayın</string>
+    <string name="instructionscard3header">Katmanları kaldır</string>
+    <string name="instructionscard3">Gezinti çekmecesinden "kaldırılacak kaplamaları" seçin\nBirden çok kaplamaları seçin\nSeçilen kaplamaları kaldırmak için FAB\'a tıklayın</string>
+    <string name="instructionscard4header">Kaplamaları yedekle</string>
+    <string name="instructionscard4">Gezinti çekmecesinden "Yedeklenecek kaplamaları" seçin\nBir isim girin ve "TAMAM"\'a tıklayın</string>
+    <string name="instructionscard5header">Katmanları geri yükle</string>
+    <string name="instructionscard5">Gezinti çekmecesinden "Geri yüklenecek kaplamaları" seçin\nSeçilen yedekleme dosyasını geri yükleme için FAB tıklayın</string>
+    <string name="instructionscard6header">Tanıtımı Tekrarla</string>
+    <string name="instructionscard6">Öğreticiyi baştan başlatmak için tıklayın</string>
+
+    <!-- Fragments -->
+
+    <!-- Install Fragment -->
+    <string name="InstallOverlays2">Kaplamaları yükleyin</string>
+    <string name="installed">Seçilen Kaplamaları yükle</string>
+    <string name="installing">Yükleniyor</string>
+
+    <!-- UnInstall Fragment -->
+    <string name="UninstallOverlays">Kaplamaları Kaldırın</string>
+    <string name="selectAll">Tümünü seç</string>
+    <string name="nothingApplied">Kaplamalar uygulanamadı.\nBazılarını ana sayfadan yükleyin.</string>
+    <string name="appliedOverlays">Uygulanan Kaplamalar:</string>
+    <string name="OverlaysSelected">Seçilen kaplamalar</string>
+    <string name="PreformReboot">Yazılımsal bir yeniden başlatma gerçekleştirilsin mi?</string>
+    <string name="uninstalled">Seçilen Kaplamalar Kaldırıldı</string>
+    <string name="uninstallingOverlays">Kaplamalar Kaldırıldı</string>
+
+    <!-- Backup Restore Fragment -->
+    <string name="noBackups">Yedekleme mevcut değil.\nFAB\'a tıklayarak oluşturun.</string>
+    <string name="Backups">Yedekler:</string>
+    <string name="BackupRestore">Yedekle &amp; Geri yükle</string>
+    <string name="backupInstalledOverlays">Yüklenen Kaplamaları Yedekleyin</string>
+    <string name="enterBackupName">Yedek ismi girin</string>
+    <string name="noInputName">Lütfen bir isim girin</string>
+    <string name="nothingToBackup">Kullanılabilir yedekleme yok</string>
+    <string name="DoYouWantToRestore">Geri yüklemek veya seçilen yedeklemeyi silmek istiyor musunuz?</string>
+    <string name="restore">Geri yükle</string>
+    <string name="delete">Sil</string>
+    <string name="DeleteBackup">Yedek Siliniyor</string>
+    <string name="deleting">Silindi</string>
+    <string name="BackupOverlays">Yedeklenen Kaplamalar</string>
+    <string name="backingUp">Yedekleniyor</string>
+    <string name="backupComplete">Yedekleme tamamlandı</string>
+    <string name="Restore">Kaplamaları Geri Yükle</string>
+    <string name="restoring">Geri yükleniyor</string>
+    <string name="deletedBackup">Seçilen Yedekleri Sil</string>
+    <string name="restored">Seçilen Yedekleri Geri Yükle</string>
+
+    <!-- NavDrawer -->
+    <string name="More">Daha Fazla</string>
+    <string name="Tutorial">Öğretici</string>
+    <string name="About">Hakkında</string>
+    <string name="Showcase">Layers Vitrini</string>
+    <string name="discover">Keşfedin</string>
+    <string name="PlayStore">PlayStore</string>
+    <string name="Settings">Ayarlar</string>
+
+    <!-- Settings -->
+    <string name="General">Genel</string>
+    <string name="SettingLauncherIconDetail">Başlatıcı simgesini kaldır</string>
+    <string name="LauncherIconSummaryEnabled">Kullandığınız ROM, Ayarlar panosu Layers kısayolunu destekliyor</string>
+    <string name="LauncherIconSummaryDisabled">Kullandığınız ROM bu seçeneği desteklemiyor</string>
+    <string name="launcherIconRemoved">Başlatıcı simgesi kaldırıldı</string>
+    <string name="launcherIconRevived">Başlatıcı simgesi geri getirildi</string>
+    <string name="SettingsHideOverlays">Gereksiz Kaplamaları gizle</string>
+    <string name="SettingsHideOverlaysDetail">Yüklü olmayan uygulamalar için Kaplamaları devre dışı bırakır</string>
+
+    <!-- Dialogs -->
+
+    <!-- Action texts -->
+    <string name="MoveOverlays">Kaplamalar Yüklensin mi?</string>
+    <string name="VisitGithub">Github</string>
+    <string name="Reboot">Yeniden Başlat</string>
+    <string name="pick_color">Stil Seçin</string>
+
+
+    <!-- description and headline texts -->
+    <string name="ApplyOverlays">Seçilen Kaplamalar uygulansın mı?</string>
+
+
+    <!-- SnackBar texts -->
+    <string name="OverlaysInstalled">Kaplamalar yüklendi!</string>
+    <string name="emptydirectory">Bu dizin boş görünüyor.</string>
+    <string name="installingOverlays">Yüklenen Kaplamalar</string>
+    <string name="generatingList">Kaplama listesi oluşturuluyor</string>
+    <string name="Sort">Sırala</string>
+    <string name="sort_name">İsim</string>
+    <string name="sort_developer">Geliştirici</string>
+    <string name="sort_random">Rasgele</string>
+    <string name="show">Göster</string>
+    <string name="contains">içerik:</string>
+    <string name="noPermission">İzin yok</string>
+    <string name="noPermissionDescription">Telefonununuz dahili depolamasını görüntülemek için verilmiş bir izin yok.\nEğer bu izni vermilmez ise bu özelliği kullanmak mümkün olmayacaktır.</string>
+    <string name="toggleCheckboxes">Geçiş Kontrol Kutuları</string>
+    <string name="refreshOverlays">Kaplamaları Yenile</string>
+    <string name="layerNotSupported">Layer desteklenmiyor</string>
+    <string name="plugin3NotSupportedDetail">Üzgünüz, Layers Manager\'in bu sürümü Eklenti Versiyon 3 sürümünü desteklemiyor. Bizim G+ Topluluğu'ndan yeni LM sürümünü alın.</string>
+    <string name="next">nileri</string>
+    <string name="remove">kaldır</string>
+    <string name="skip">Atla</string>
+
+</resources>
