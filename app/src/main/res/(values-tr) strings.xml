@@ -6,14 +6,14 @@
         https://play.google.com/store/search?q=Layers+Theme&c=apps&docType=1&sp=CAFiDgoMTGF5ZXJzIFRoZW1legIYAIoBAggB:S:ANO1ljK_ZAY
         ]]></string>
     <string name="tooBad">Çok kötü.</string>
-    <string name="noPlugins">Henüz herhangi bir uyumlu eklenti yüklü değil, Kaplama eklentileri için FAB tuşunu kullanın.</string>
-    <string name="ShowCaseMore">Bazı yeni güzel kaplamaları bulun. Beta artık kullanılabilir!</string>
+    <string name="noPlugins">Henüz herhangi bir uyumlu eklenti yüklü değil, Layers eklentileri için FAB tuşunu kullanın.</string>
+    <string name="ShowCaseMore">Bazı yeni güzel Layers\'leri bulun. Beta artık kullanılabilir!</string>
     <string name="PlayStoreMore">Playstore\'a bir göz atın.</string>
 
     <!-- Plugin Detail -->
     <string name="donotshowagain">Tekrar gösterme</string>
     <string name="installeverything"Tümünü yükleyin</string>
-    <string name="selectalloverlays">Tüm kaplamaları seç</string>
+    <string name="selectalloverlays">Tüm Kaplamaları seç</string>
     <string name="WhatsNew">NELER YENİ</string>
     <string name="Category2Name">Özel Stil Kaplamalar</string>
     <string name="Category1Name">Genel Kaplamalar</string>
@@ -22,7 +22,7 @@
     <!-- About -->
     <string name="niklasschnettler">Niklas Schnettler</string>
     <string name="developedby">Layers geliştiricileri</string>
-    <string name="usefullinks">Kullanışlı bağlantılar</string>
+    <string name="usefullinks">Faydalı linkler</string>
     <string name="version">Sürüm</string>
     <string name="AditionalLayersDev">Ek Katmanlar Sunar</string>
     <string name="findOutWhatsNew">Yenilikleri öğrenin</string>
@@ -75,23 +75,23 @@
     <!-- PRODUCT TOUR -->
     <string name="Slide1_Heading">Layers Manager</string>
     <string name="Slide1_Text">Tüm paylaşımlarınızı yönetmek için merkezi bir yer</string>
-    <string name="Slide2_Heading">Kaplama Eklentisi</string>
+    <string name="Slide2_Heading">Layers Eklentisi</string>
     <string name="Slide2_Text">Uyumlu temalar doğrudan Layers Manager\'a entegre edilmiştir. Ana sayfadan onları açın ve doğrudan favori paylaşımlarınızı yükleyin.</string>
     <string name="Slide3_Heading">APK / ZIP Katmalar</string>
     <string name="Slide3_Text">Yüzen Eylem Butonuna tıklayarak apk veya zip olarak mevcut temalar yükleyebilirsiniz.</string>
-    <string name="Slide4_Heading">Kaplamaları Kaldır</string>
-    <string name="Slide4_Text">Artık kullanmak istemiyorsanız kaplamaları kaldırın.</string>
+    <string name="Slide4_Heading">Katmanları Kaldır</string>
+    <string name="Slide4_Text">Artık kullanmak istemiyorsanız katmanları kaldırın.</string>
     <string name="Slide5_Heading">Yedekle &amp; Geri Yükle</string>
-    <string name="Slide5_Text">Sevdiğiniz kaplamaları ydekleyin ve sonra tekrar geri yükleyin.</string>
+    <string name="Slide5_Text">Sevdiğiniz katmanları yedekleyin ve sonra tekrar geri yükleyin.</string>
     <string name="Slide6_Heading">Başlatıcı Simgesini Gizle?</string>
-    <string name="Slide7_Heading">Gereksiz Kaplamaları Gizle?</string>
+    <string name="Slide7_Heading">Gereksiz Katmanları Gizle?</string>
 
 
     <!-- INSTRUCTIONS/TUTORIAL -->
     <string name="instructionstitle">Öğretici</string>
-    <string name="instructionscard1header">Kaplama eklentisi yükleyin</string>
-    <string name="instructionscard1">Yüklü kaplamaların birine tıklayın\nTemanın uygulanmasını istediğiniz uygulamaları seçin\nKaplamaları yüklemek için tıklayın FAB</string>
-    <string name="instructionscard2header">Normal kaplamaları yükleyin</string>
+    <string name="instructionscard1header">Layers eklentisi yükleyin</string>
+    <string name="instructionscard1">Yüklü katmanların birine tıklayın\nTemanın uygulanmasını istediğiniz uygulamaları seçin\nKaplamaları yüklemek için tıklayın FAB</string>
+    <string name="instructionscard2header">Normal Layers kaplamaları yükleyin</string>
     <string name="instructionscard2">Ana ekranda FAB\'a tıklayın\nBir .zip ya da birden fazla .apk\'dan birini seçin\nSeçilen kaplamaları yüklemek için FAB\'a tıklayın</string>
     <string name="instructionscard3header">Katmanları kaldır</string>
     <string name="instructionscard3">Gezinti çekmecesinden "kaldırılacak kaplamaları" seçin\nBirden çok kaplamaları seçin\nSeçilen kaplamaları kaldırmak için FAB\'a tıklayın</string>
